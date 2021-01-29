@@ -1,0 +1,17 @@
+<!DOCTYPE html>	
+	<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Exemplo 2</title>
+
+	</head>
+	<body>
+		<main style="height:300px ;border: 1px solid: #000 ">
+			<div style="width:100px ; height:200% ;">Caixa 1 de bolck</div>
+			<div>Caixa 2 de block</div>
+			
+			<span>Caixa 3 de linha</span>
+			<span>Caixa 4 de linha</span>
+		</main>
+	</body>
+</html>
